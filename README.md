@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Chandu Devineni</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Final Year CSE Student </h3>
+<h3 align="center">🚀 Aspiring Software Developer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chandudevineni/" target="_blank">
@@ -16,8 +16,8 @@
 ---
 
 ### 👨‍💻 Who Am I?
+As a recent graduate, I am eager to apply my skills in a real-world setting. I am currently participating in a Production Support training program with mthree, where I am developing the skills necessary to perform production support tasks. I am learning to write scripts using Linux and Python to support web-based applications. The program also includes hands-on activities to apply ITSM principles and Agile to project management. I am a quick learner with a strong work ethic, and I am committed to leveraging my knowledge and dedication to contribute to organizational success.
 
-- 🎓 Final Year B.Tech CSE Student
 - 🛠️ Transitioning into **SRE / DevOps** roles with hands-on projects
 - ☁️ Learning **AWS, Docker, Kubernetes, Terraform, GitHub Actions**
 - 📊 Strong foundation in **DSA, Python, Java, Linux**, and **SQL**
